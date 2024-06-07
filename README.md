@@ -1,4 +1,4 @@
-# Data-Analysis-on-Credit-Card-Financial-Dashboard-using-Power-BI
+# Data-Analysis-on-Credit-Card-Financial-Dashboard-using-Power-B
 Project: Interactive Credit Card Financial Dashboard (Power BI)
 This project utilizes Power BI to develop an interactive dashboard that provides real-time insights into credit card financial data.
 
